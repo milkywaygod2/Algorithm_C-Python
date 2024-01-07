@@ -1,0 +1,144 @@
+﻿  Cdeque.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cdeque.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cdeque.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cdeque.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cdeque.cpp(34,10): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cdeque.cpp(47,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  CmachineMax.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CmachineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CmachineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CmachineMax.cpp'을(를) 컴파일하는 중)
+  
+  CorderHash.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderHash.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderHash.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderHash.cpp'을(를) 컴파일하는 중)
+  
+  CorderList.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderList.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderList.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderList.cpp'을(를) 컴파일하는 중)
+  
+  CorderVector.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderVector.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderVector.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CorderVector.cpp'을(를) 컴파일하는 중)
+  
+  Core.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Core.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Core.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Core.cpp'을(를) 컴파일하는 중)
+  
+  Cqueue.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cqueue.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cqueue.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cqueue.cpp'을(를) 컴파일하는 중)
+  
+  Csort.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Csort.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Csort.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Csort.cpp'을(를) 컴파일하는 중)
+  
+  Cstack.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cstack.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cstack.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cstack.cpp'을(를) 컴파일하는 중)
+  
+  LinkedlistPipe.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'LinkedlistPipe.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'LinkedlistPipe.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'LinkedlistPipe.cpp'을(를) 컴파일하는 중)
+  
+  listPipe.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'listPipe.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'listPipe.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'listPipe.cpp'을(를) 컴파일하는 중)
+  
+  machineMax.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'machineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'machineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'machineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\machineMax.cpp(171): warning C4715: 'machineMax::excute': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  main.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  vectorSELF.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\CorderVector.h(11,46): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'vectorSELF.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cstack.h(9,36): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'vectorSELF.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\Cqueue.h(8,32): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'vectorSELF.cpp'을(를) 컴파일하는 중)
+  
+  Elise_dataStructure.vcxproj -> E:\_Develop\repos\Algorithm\x64\Debug\Elise_dataStructure.exe

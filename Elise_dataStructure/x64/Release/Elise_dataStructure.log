@@ -1,0 +1,24 @@
+﻿  __Core.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 '__Core.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): warning C4183: 'SINGLETON': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 '__Core.cpp'을(를) 컴파일하는 중)
+  
+  machineMax.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'machineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): warning C4183: 'SINGLETON': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'machineMax.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\machineMax.cpp(3,24): error C2600: 'machineMax_withoutALL::machineMax_withoutALL': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+E:\_Develop\repos\Algorithm\Elise_dataStructure\machineMax.cpp(4,25): error C2600: 'machineMax_withoutALL::~machineMax_withoutALL': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+E:\_Develop\repos\Algorithm\Elise_dataStructure\machineMax.cpp(12,24): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  vectorSELF.cpp
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'vectorSELF.cpp'을(를) 컴파일하는 중)
+  
+E:\_Develop\repos\Algorithm\Elise_dataStructure\__Core.h(5,17): warning C4183: 'SINGLETON': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'vectorSELF.cpp'을(를) 컴파일하는 중)
+  

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="02.구슬넣기%28배열vs리스트%29">
+      <UniqueIdentifier>{9cf51fe6-8c1c-447b-8b84-64f9413e399c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.최대값기계">
+      <UniqueIdentifier>{ea1e6682-9559-45fb-a995-472b82d69976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.공통">
+      <UniqueIdentifier>{aa472fc3-f74d-4194-98a8-5ed8075eba1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.공통\CONFIG">
+      <UniqueIdentifier>{fe6d39f6-b88b-408e-8f9f-a1a850317592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.공통\DS_deque">
+      <UniqueIdentifier>{d9dc40ee-12f9-4105-89ad-5c1d51b56278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.공통\DS_vector">
+      <UniqueIdentifier>{ff1b65c0-4d9c-4e24-b28f-6638843519ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.공통\FUNC_sort">
+      <UniqueIdentifier>{57bd9c75-1a20-4702-8516-b4cad06fd362}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.주문관리시스템">
+      <UniqueIdentifier>{c4dd8696-214d-4536-a594-edf801ac8428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.스택 &amp; 큐">
+      <UniqueIdentifier>{03b91ac7-63c2-4e41-bd3c-e8af80fceef8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="machineMax.cpp">
+      <Filter>01.최대값기계</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>00.공통</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>00.공통</Filter>
+    </ClCompile>
+    <ClCompile Include="listPipe.cpp">
+      <Filter>02.구슬넣기%28배열vs리스트%29</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedlistPipe.cpp">
+      <Filter>02.구슬넣기%28배열vs리스트%29</Filter>
+    </ClCompile>
+    <ClCompile Include="vectorSELF.cpp">
+      <Filter>00.공통\DS_vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Cdeque.cpp">
+      <Filter>00.공통\DS_deque</Filter>
+    </ClCompile>
+    <ClCompile Include="Csort.cpp">
+      <Filter>00.공통\FUNC_sort</Filter>
+    </ClCompile>
+    <ClCompile Include="CmachineMax.cpp">
+      <Filter>01.최대값기계</Filter>
+    </ClCompile>
+    <ClCompile Include="CorderVector.cpp">
+      <Filter>03.주문관리시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="CorderList.cpp">
+      <Filter>03.주문관리시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="CorderHash.cpp">
+      <Filter>03.주문관리시스템</Filter>
+    </ClCompile>
+    <ClCompile Include="Cstack.cpp">
+      <Filter>04.스택 &amp; 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="Cqueue.cpp">
+      <Filter>04.스택 &amp; 큐</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="machineMax.h">
+      <Filter>01.최대값기계</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>00.공통</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>00.공통</Filter>
+    </ClInclude>
+    <ClInclude Include="listPipe.h">
+      <Filter>02.구슬넣기%28배열vs리스트%29</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedlistPipe.h">
+      <Filter>02.구슬넣기%28배열vs리스트%29</Filter>
+    </ClInclude>
+    <ClInclude Include="vectorSELF.h">
+      <Filter>00.공통\DS_vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Cdeque.h">
+      <Filter>00.공통\DS_deque</Filter>
+    </ClInclude>
+    <ClInclude Include="__PCH.h">
+      <Filter>00.공통\CONFIG</Filter>
+    </ClInclude>
+    <ClInclude Include="_define.h">
+      <Filter>00.공통\CONFIG</Filter>
+    </ClInclude>
+    <ClInclude Include="_struct.h">
+      <Filter>00.공통\CONFIG</Filter>
+    </ClInclude>
+    <ClInclude Include="Csort.h">
+      <Filter>00.공통\FUNC_sort</Filter>
+    </ClInclude>
+    <ClInclude Include="CmachineMax.h">
+      <Filter>01.최대값기계</Filter>
+    </ClInclude>
+    <ClInclude Include="CorderVector.h">
+      <Filter>03.주문관리시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="CorderList.h">
+      <Filter>03.주문관리시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="CorderHash.h">
+      <Filter>03.주문관리시스템</Filter>
+    </ClInclude>
+    <ClInclude Include="메모.h">
+      <Filter>00.공통</Filter>
+    </ClInclude>
+    <ClInclude Include="Cstack.h">
+      <Filter>04.스택 &amp; 큐</Filter>
+    </ClInclude>
+    <ClInclude Include="Cqueue.h">
+      <Filter>04.스택 &amp; 큐</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
