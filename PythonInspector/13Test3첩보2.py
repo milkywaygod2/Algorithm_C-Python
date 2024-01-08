@@ -2,7 +2,18 @@
 n : 엘리스가 전송해야 할 암호 문자의 개수
 bfs
 '''
-def send_message(n):
+def send_message(n) :
+    d = [ 0 for i in range(10001) ]
+ 
+    d[1] = 1
+    d[2] = 2
+ 
+    for i in range(3, 101):
+        for j in range(1, i-1):
+            d[i] = max(d[i], d[i-1]+1, d[i-(1+j)]*(1+j))
+    return d[n]
+
+def send_message_my(n):
     #printNum = 2 까지는 더하고 그후론 전부 복붙 하다가 복으로 끝날것 같으면 붙 한번더
     '''
     00 11 22 33 44 56 68 712

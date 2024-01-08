@@ -15,9 +15,46 @@ a와 b도시 사이의 도로거리가 c임(1<=c<=1000)
 n번도시에 소문을 퍼뜨렸을때, 가장 마지막에 소문이 퍼지는 도시번호 반환.
 '''
 
-import heapq
+def spoil_rumor(graph, start):
+    n = len(graph)
+ 
+    Table = [987987987 for _ in range(n)]
+    check = [False for _ in range(n)]
+ 
+    Table[start] = 0
+ 
+    for i in range(n):
+        myMin = 987987987
+        myMinIdx = -1
+ 
+        for j in range(n):
+            if check[j] == False and Table[j] < myMin:
+                myMin = Table[j]
+                myMinIdx = j
+ 
+        cur = myMinIdx
+        check[cur] = True
+ 
+        for j in range(len(graph[cur])):
+            des = graph[cur][j][0]
+            cost = graph[cur][j][1]
+ 
+            if Table[des] > Table[cur] + cost:
+                Table[des] = Table[cur] + cost
+ 
+    myMax = -1
+    result = -1
+ 
+    for i in range(len(Table)):
+        if myMax < Table[i]:
+            myMax = Table[i]
+            result = i
+ 
+    return result
 
-def spoil_rumor(graph, x):
+
+import heapq
+def spoil_rumor_my(graph, x):
     INF = int(1e9) # 무한을 의미하는 값으로 10억을 설정
     n = len(graph) # 도시의 수
     distance = [INF] * n # 최단 거리 테이블을 모두 무한으로 초기화
